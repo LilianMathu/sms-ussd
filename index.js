@@ -19,7 +19,7 @@ app.post('/send_sms', (req, res) => {
    
 	
 	const options = {
-		username: 'lilianmathu',
+		username: '',
 		apiKey: ''
 	};
 
