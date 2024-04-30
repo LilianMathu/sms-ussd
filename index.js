@@ -20,7 +20,7 @@ app.post('/send_sms', (req, res) => {
 	
 	const options = {
 		username: 'lilianmathu',
-		apiKey: 'ffa8ff999d4f5295f01ec6573a921b63def5be318ad1da2c38a92656a433838d'
+		apiKey: ''
 	};
 
 	// initialize africastalking gateway
